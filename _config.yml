@@ -1,8 +1,9 @@
 title: Arbitration Guide
 description: Arbitration Guide Description
 theme: just-the-docs
+color_scheme: dark
 
-url: https://xoxfaby.github.io/Arbitration-Guide/
+url: https://guide.faby.dev
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
