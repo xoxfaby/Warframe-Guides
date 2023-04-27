@@ -11,7 +11,7 @@ aux_links:
 collections:
   guides:
     output: true
-  - builds
+  builds:
 
 just_the_docs:
   collections:
