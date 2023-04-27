@@ -11,3 +11,8 @@ aux_links:
 collections:
   guides:
     output: true
+  - builds
+
+just_the_docs:
+  collections:
+    - guides
