@@ -15,4 +15,5 @@ collections:
 
 just_the_docs:
   collections:
-    - guides
+    guides:
+      name: Guides
