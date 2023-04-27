@@ -6,4 +6,8 @@ color_scheme: dark
 url: https://guide.faby.dev/Arbitration-Guide
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Arbitration Discord: https://discord.gg/7FTA7sQ
+
+collections:
+  guides:
+    output: true
