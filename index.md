@@ -12,7 +12,7 @@ https://discord.gg/placeholder
 Currently we have the following guides:
 
 {% for guide in site.guides %}
-  [[guide.title]][[guide.url]]
+  [{{guide.title}}]({{guide.ur}})
 {% endfor %}
 
 
