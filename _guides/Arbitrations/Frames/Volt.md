@@ -2,7 +2,7 @@
 *Cast shields, buff teammates.*
 
 Importance: ★★★★☆  
-Diffculty: ★★☆☆☆  
+Difficulty: ★★☆☆☆  
 Cost: ★★☆☆☆  
 
 ### Strategy

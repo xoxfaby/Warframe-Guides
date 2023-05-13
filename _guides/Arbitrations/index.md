@@ -1,10 +1,13 @@
 ---
 title: Arbitration Guide
 layout: default
+#permalink: /Arbitrations/
 ---
 
-1. Table of Contents
-{:toc}
+test
+{% include toc.html html=page.content sanitize=true class="nav-list" item_class="nav-list-item"
+      anchor_class="nav-list-link" h_max=2 %}
+test
 
 {% include_relative Summary.md %}
 
