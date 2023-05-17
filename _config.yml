@@ -7,10 +7,14 @@ url: https://guide.faby.dev/Warframe-Guides
 
 aux_links:
   Join Our Discord: http://discord.gg/PmB6qhDzUg
+  
+kramdown:
+  hard_wrap: true
 
 collections:
   guides:
     output: true
+    permalink: /:path
   builds:
 
 just_the_docs:

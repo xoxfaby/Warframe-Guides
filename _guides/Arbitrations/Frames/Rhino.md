@@ -1,5 +1,5 @@
 ## Rhino
-*Really important buff frame. So str is really important for him.*
+*Vital buff frame. Priorituze high Ability Strength.*
 
 Importance: ★★★★☆  
 Difficulty: ★★★☆☆  

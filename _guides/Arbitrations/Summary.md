@@ -1,5 +1,7 @@
 # Summary
-Basic Strategy Info
+## Basic Strategy
+
+
 Things to consider/what you need: 
 Summary of how the strat works: 
 Get strength boost (with operator and Nidus specter), Buff frames(and yourself), DPS with AOE weapon (Ogris for the most part), Use Dispensary ability or Protea Specter for extra ammo (or Aura). 

@@ -1,5 +1,5 @@
 ## Mirage
-*Good buff frame with 3 copies that use your Ogris.*
+*Strong buff frame with 3 copies that use your Ogris.*
 
 Importance: ★★★★☆  
 Difficulty: ★★☆☆☆  

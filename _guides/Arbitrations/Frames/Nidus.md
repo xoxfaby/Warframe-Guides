@@ -1,5 +1,5 @@
 ## Nidus
-*Could easily be made as replacement for Rhino but it’s costly*
+*Viable replacement for Rhino but costly to build*
 
 Importance: ★★★☆☆  
 Difficulty: ★★★★★  
