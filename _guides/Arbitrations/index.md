@@ -1,5 +1,6 @@
 ---
 title: Arbitration Guide
+description: Arbitration Guide created for and by the Warframe Arbitrations community.
 layout: default
 permalink: /Arbitrations/
 ---
