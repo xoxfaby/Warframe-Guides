@@ -39,6 +39,9 @@ If you have Amalgam Barrel Diffusion, make sure to pop it on whatever secondary 
 Can potentially be very good and help boost Vitus essence anywhere from 10% to 50% in a good run, always run this if you have it. 
 Charm, Animal instinct, Tek Enhance and Fetch are the mandatory mods, Tek assault is optional but can be very nice to have.
 
+### Basic Build
+![](media/builds_smeeta_basic.png)
+
 # Extra items + Specters
 Having energy restore pads and ammo restore pads can come in clutch sometimes as well so make sure you’re stocked up on plenty of those. You can get 100x restore blueprints from the different labs in the dojo. The specters used are Ancient healer specter, nidus specter and protea specter. The weapons on them don’t really matter as you’ll really just be using them for their abilities. Protea for Dispensary and Nidus for Parasitic Link just make sure to make them stationary where you’ll be camping. The quality of the specter also does not matter as a 1 star specter will functionally be the exact same as a 4 star specter so make sure to use whichever ones you have.
 
