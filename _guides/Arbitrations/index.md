@@ -13,6 +13,8 @@ permalink: /Arbitrations/
 
 {% include_relative Summary.md %}
 
+{% include_relative Focus Schools.md %}
+
 # Frames
 
 These build recommended here will work perfectly fine for 80-100 waves in defense, anything above that might be a bit risky. They’re relatively lower-investment builds with 4 forma each so you don’t have to forma every frame 7-8 times. You can opt for umbral intensify for more power strength eventually when you can commit more formas to the builds. 
