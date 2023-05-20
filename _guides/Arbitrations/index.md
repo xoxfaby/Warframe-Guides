@@ -13,7 +13,7 @@ permalink: /Arbitrations/
 
 {% include_relative Summary.md %}
 
-{% include_relative "Focus Schools.md" %}
+{% include_relative FocusSchools.md %}
 
 # Frames
 
