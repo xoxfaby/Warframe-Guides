@@ -31,7 +31,10 @@ More advanced builds will follow later.
 {% include_relative Weapons/Afentis.md %}
 {% include_relative Weapons/Sporelancer.md %}
 
-## General Secondary Advice 
+## General Weapon Advice 
+Don't forget to upgrade your normal mods to primed versions when you can.
+
+### Secondary Advice 
 If you have Amalgam Barrel Diffusion, make sure to pop it on whatever secondary you’re running as it gives a good parkour velocity boost when you’re rolling which really helps with looting fast.
 
 # Companions
