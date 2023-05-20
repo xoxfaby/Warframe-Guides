@@ -1,45 +1,8 @@
 # Summary
 ## Basic Strategy
 
+The goal of arbitrations is to kill enemies as quickly as you can after they spawn, as more kills per minute will equal more Vitus Essence. Arbitration drones (which drop vitus essence) will spawn up to a maximum of 5 alive on the map at once, so **fast kills = more loot** and that's the gist of it. You'll be running a lot of Power strength + Ability duration and applying a lot of buffs to yourself and your team so even in very long runs you'll still be killing every enemy with one shot. Your team will set up on one point of the map from where you can see all spawns and you'll shoot at enemy spawn points from that point of the map, everyone will stay at this point of the map and only leave to go pick up loot between rounds after which you will come back to this point of the map to refresh all your buffs. Sometimes people will also have to run to a spawn and shoot at it if enemies are slow to leave or if the Ai gets stuck and stops moving. You’ll understand more as you play, so don’t be afraid to join up with people once you’ve got your builds straight.
 
-Things to consider/what you need: 
-Summary of how the strat works: 
-Get strength boost (with operator and Nidus specter), Buff frames(and yourself), DPS with AOE weapon (Ogris for the most part), Use Dispensary ability or Protea Specter for extra ammo (or Aura). 
-Open big map
-Kill Arbitration drones for Vitus. 5 drone limit so fast killing important.
-Wait for the cat proc (don’t take vitus drops immediately) 
-Shoot red dots till they disappear. If you want to make it efficient, choose what side you are holding. Refer to required settings to make the map static so it always will be pointing to north
+The 4 main meta frames for Arbitrations are: [Saryn](#Saryn) (The main damage dealer), Mirage (Buffer + secondary damage dealer), Volt (Another buffer + secondary damage dealer and a speed buffer for faster looting) and Wisp (A support buffer frame who will also run a support weapon that buffs your team "Afentis" + Sporelancer Kitgun) so pick one frame to start off with and slowly try to build all of them up so you can fill in more roles for different teams you play with. The Kuva Ogris is the only weapon that's currently good for Arbitrations, as with the "Nightwatch Napalm" Augment it will leave an AOE that will keep killing enemies on spawn so that's what you'll be running on every frame that's not wisp. Make sure you enter runs AFTER you've fully built out one of these roles as incomplete builds can ruin runs.
 
-Specters: 
-protea for dispensary (thing that gives you ammo) 
-Nidus for extra strength(could be buffed with power donation aura)
-
-Abilities:
-Energy Munition for 75% ammo efficiency
-Any buff ability (like roar)
-
-Arcanes:
-Frames:
-Energize - for convenience
-Augmentated - for 60% str
-Vigor - for more strength
-Efficiency - for when you need extra duration
-
-Weps:
-Need to investigate
-
-Incarnon:
-Thing for the future (who knows) 
-
-Auras:
-Primary scavenger
-Power donation
-Enemy radar
-
-Advanced Strategy Info
-
-Companions
-The one and only cat for resource boost - smeeta kavat
-
-
-If you don’t believe in luck you could use Vulpaphyla
+To make sure you’re getting the most out of your runs, please don’t forget to equip a smeeta kavat, buy a resource booster which doubles the amount of resources you pick up as well as make sure someone on your squad has a resource drop chance booster. You can also get a resource drop chance blessing from relays if a Mastery Rank 30 player decides to give it to people, so if your teammate is MR 30 or if you’re okay to ask around in relays and wait 5 minutes then it’s well worth it to have that as well, and only the HOST needs the resource drop chance blessing.

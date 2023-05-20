@@ -6,13 +6,15 @@ Difficulty: ★★☆☆☆
 Cost: ★★☆☆☆  
 
 ### Strategy
+Subsume Gauss’s thermal sunder on 4th ability
+Put down protea specter and press X on it to hold position
 
-DD with operator
+Double Dash with operator if you’re running Madurai or put hardened wellspring if Zenurik
 Get energy orb
 Hold 1 to buff yourself and teammates
-Cast shields to protect and buff
 Cast 2nd ability to boost reload speed
-Cast 4 to shoot enemies down
+Press 4 and then hold 4 to give team thermal sunder buffs
+Kill stuff
 
 ### Builds
 #### Basic Build

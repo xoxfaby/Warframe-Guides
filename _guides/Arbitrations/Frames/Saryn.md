@@ -1,19 +1,16 @@
 ## Saryn
 *Huge buff for teammates and herself.*
 
-Importance: ★★★★★  
-Difficulty: ★☆☆☆☆  
-Cost: ★★☆☆☆  
-
 ### Strategy
-Boost yourself with Madurai (double dash),   
-get energy orb,   
-cast 1st ability (hold it to buff yourself and teammates) (augment buff),   
-get energy orb,   
-cast toxin lash  
-Cast energy munitions/void fuel (from operator)  
-Open big map (default M button)  
-Shoot red dots on the map  
+Subsume Grendel’s Nourth on 4th ability
+Throw down an ancient healer specter when your team will camp and press x on it to make it sit still
+Cast Nourish 
+Double Dash with operator if you’re running Madurai or put hardened wellspring if Zenurik
+get energy orb, 
+cast 1st ability (hold it to buff yourself and teammates)
+get energy orb, 
+cast toxin lash
+Kill stuff
 
 ### Builds
 #### Basic Build
