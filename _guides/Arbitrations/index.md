@@ -5,11 +5,11 @@ layout: default
 permalink: /Arbitrations/
 ---
 
-*This guide was created for and by the [Warframe Arbitrations](http://discord.gg/d2ubNDSv8a) Discord community.
+*This guide was created for and by the [Warframe Arbitrations](http://discord.gg/d2ubNDSv8a) Discord community.*
 
-You are very welcome to join us, get notified about the current Arbitration, ask questions, discuss strategies, or find a group to run with.
+*You are very welcome to join us, get notified about the current Arbitration, ask questions, discuss strategies, or find a group to run with.*
 
-[http://discord.gg/pANbkkNc5Z](http://discord.gg/pANbkkNc5Z)*
+*[http://discord.gg/pANbkkNc5Z](http://discord.gg/pANbkkNc5Z)*
 
 {% include_relative Summary.md %}
 
@@ -17,15 +17,13 @@ You are very welcome to join us, get notified about the current Arbitration, ask
 
 These build recommended here will work perfectly fine for 80-100 waves in defense, anything above that might be a bit risky. They’re relatively lower-investment builds with 4 forma each so you don’t have to forma every frame 7-8 times. You can opt for umbral intensify for more power strength eventually when you can commit more formas to the builds. 
 
-More advancedd builds will follow later.
+More advanced builds will follow later.
 
 
 {% include_relative Frames/Saryn.md %}
 {% include_relative Frames/Mirage.md %}
 {% include_relative Frames/Volt.md %}
 {% include_relative Frames/Wisp.md %}
-
-Etc
 
 # Weapons
 
@@ -80,5 +78,5 @@ The only map that you can’t double dip well is the frozen world corpus one as 
 
 Here are defense and interception example videos of the arbitration gameplay loop as mirage, it’s pretty much the same for all other roles as well
 
-Defense :  https://www.youtube.com/watch?v=OB6srluQdXA
-Interception : https://www.youtube.com/watch?v=dDERzXZsaec
+Defense:  [https://www.youtube.com/watch?v=OB6srluQdXA](https://www.youtube.com/watch?v=OB6srluQdXA)
+Interception: [https://www.youtube.com/watch?v=dDERzXZsaec](https://www.youtube.com/watch?v=dDERzXZsaec)

@@ -1,9 +1,5 @@
 ## Volt
-*Cast shields, buff teammates.*
-
-Importance: ★★★★☆  
-Difficulty: ★★☆☆☆  
-Cost: ★★☆☆☆  
+*Cast shields, buff teammates.* 
 
 ### Strategy
 Subsume Gauss’s thermal sunder on 4th ability
