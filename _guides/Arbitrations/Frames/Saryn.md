@@ -2,14 +2,14 @@
 *Huge buff for teammates and herself.*
 
 ### Strategy
-Subsume Grendel’s Nourth on 4th ability
+Subsume [Grendel’s][Grendel] [Nourish] on 4th ability
 Throw down an ancient healer specter when your team will camp and press x on it to make it sit still
-Cast Nourish 
+Cast [Nourish] 
 Double Dash with operator if you’re running Madurai or put hardened wellspring if Zenurik
-get energy orb, 
-cast 1st ability (hold it to buff yourself and teammates)
-get energy orb, 
-cast toxin lash
+Get energy orb, 
+Cast 1st ability (hold it to buff yourself and teammates)
+Get energy orb, 
+Cast [Toxic Lash]
 Kill stuff
 
 ### Builds

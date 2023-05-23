@@ -5,7 +5,9 @@ layout: default
 permalink: /Arbitrations/
 ---
 
-*This guide was created for and by the [Warframe Arbitrations](http://discord.gg/d2ubNDSv8a) Discord community.*
+*This guide is currently a simplified beginner-friendly guide for people trying to get into arbitrations
+
+*It is created for and by the [Warframe Arbitrations](http://discord.gg/d2ubNDSv8a) Discord community.*
 
 *You are very welcome to join us, get notified about the current Arbitration, ask questions, discuss strategies, or find a group to run with.*
 
@@ -37,18 +39,17 @@ More advanced builds will follow later.
 Don't forget to upgrade your normal mods to primed versions when you can.
 
 ### Secondary Advice 
-If you have Amalgam Barrel Diffusion, make sure to pop it on whatever secondary you’re running as it gives a good parkour velocity boost when you’re rolling which really helps with looting fast.
-
+If you have [Amalgam Barrel Diffusion], make sure to pop it on whatever secondary you’re running as it gives a good parkour velocity boost when you’re rolling which really helps with looting fast.
 # Companions
 ## Smeeta Kavat
-Can potentially be very good and help boost Vitus essence anywhere from 10% to 50% in a good run, always run this if you have it. 
-Charm, Animal instinct, Tek Enhance and Fetch are the mandatory mods, Tek assault is optional but can be very nice to have.
+The [Smeeta Kavat](https://warframe.fandom.com/wiki/Smeeta_Kavat){:target="_blank"} can potentially be very good and help boost Vitus essence anywhere from 10% to 50% in a good run, always run this if you have it. 
+[Charm], [Animal Instinct], [Tek Enhance] and [Fetch] are the mandatory mods, Tek assault is optional but can be very nice to have.
 
 ### Basic Build
 ![](media/builds_smeeta_basic.png)
 
 # Extra items + Specters
-Having energy restore pads and ammo restore pads can come in clutch sometimes as well so make sure you’re stocked up on plenty of those. You can get 100x restore blueprints from the different labs in the dojo. The specters used are Ancient healer specter, nidus specter and protea specter. The weapons on them don’t really matter as you’ll really just be using them for their abilities. Protea for Dispensary and Nidus for Parasitic Link just make sure to make them stationary where you’ll be camping. The quality of the specter also does not matter as a 1 star specter will functionally be the exact same as a 4 star specter so make sure to use whichever ones you have.
+Having [Energy Restore Pads] and [Ammo Restore Pads] can come in clutch sometimes as well so make sure you’re stocked up on plenty of those. You can get 100x restore blueprints from the different labs in the dojo. The specters used are Ancient Healer Specter, [Nidus] Specter and [Protea] Specter. The weapons on them don’t really matter as you’ll really just be using them for their abilities. [Protea] for [Dispensary] and [Nidus] for [Parasitic Link] just make sure to make them stationary where you’ll be camping. The quality of the specter also does not matter as a 1 star specter will functionally be the exact same as a 4 star specter so make sure to use whichever ones you have.
 
 
 # Recommended Warframe Settings
@@ -65,8 +66,8 @@ To save your eyes really
 
 For your convenience, the best tiles have been sorted into the S-Tier and A-Tier category and you can simply pick up the roles to get pinged for these in the server.
 
-Mission types : 
-Interception and defense are the best mission types to farm Vitus essence. Defense is simple enough (camp one point and shoot at spawns) and there is an example video at the bottom of this guide.
+## Mission types 
+Interception and Defense are the best mission types to farm Vitus essence. Defense is simple enough (camp one point and shoot at spawns) and there is an example video at the bottom of this guide.
 
 For interception you want to make sure the rounds go on for as long as possible so you can do much longer runs as enemies will scale much much more slowly. To achieve this, you’ll want to capture TWO points at the start of the round and neutralize one other point. Once your progress is 2% higher than the enemy you can let the neutralized point get captured back again and proceed to return to the camp point and shoot at spawns until next round. Be careful not to get distracted and let enemies capture any of your points after that though. Make sure to coordinate with your team about who will cap and who will neutralize at the start of runs to make things easier.
 
@@ -82,9 +83,67 @@ Everyone will then LEAVE the relay and make a party again. You will then join a 
 
 The only map that you can’t double dip well is the frozen world corpus one as you can get a random selection between 3 maps when you load into that and only one of the maps is good. 
 
-# Example video : 
+# Example Videos
 
 Here are defense and interception example videos of the arbitration gameplay loop as mirage, it’s pretty much the same for all other roles as well
 
-Defense:  [https://www.youtube.com/watch?v=OB6srluQdXA](https://www.youtube.com/watch?v=OB6srluQdXA)
-Interception: [https://www.youtube.com/watch?v=dDERzXZsaec](https://www.youtube.com/watch?v=dDERzXZsaec)
+Defense:  <https://www.youtube.com/watch?v=OB6srluQdXA>
+Interception: <https://www.youtube.com/watch?v=dDERzXZsaec>
+
+
+[Saryn]: #saryn
+[Mirage]: #mirage
+[Volt]: #volt
+[Wisp]: #wisp
+[Kuva Ogris]: #kuva-ogris
+[Afentis]: #afentis
+[Sporelacer]: #sporelacer
+[Smeeta Kavat]: #smeeta-kavat
+[Arbitrations]: https://warframe.fandom.com/wiki/Arbitrations
+{:target="_blank"}
+[Arbitration Shield Drone]: https://warframe.fandom.com/wiki/Arbitration_Shield_Drone
+{:target="_blank"}
+[Vitus Essence]: https://warframe.fandom.com/wiki/Vitus_Essence
+{:target="_blank"}
+[Nightwatch Napalm]: https://warframe.fandom.com/wiki/Nightwatch_Napalm
+{:target="_blank"}
+[Amalgam Barrel Diffusion]: https://warframe.fandom.com/wiki/Amalgam_Barrel_Diffusion
+{:target="_blank"}
+[Charm]: https://warframe.fandom.com/wiki/Charm
+{:target="_blank"}
+[Animal instinct]: https://warframe.fandom.com/wiki/Animal_instinct
+{:target="_blank"}
+[Tek Enhance]: https://warframe.fandom.com/wiki/Tek_Enhance
+{:target="_blank"}
+[Fetch]: https://warframe.fandom.com/wiki/Fetch
+{:target="_blank"}
+[Energy Restore Pads]: https://warframe.fandom.com/wiki/Squad_Energy_Restore
+{:target="_blank"}
+[Ammo Restore Pads]: https://warframe.fandom.com/wiki/Squad_Ammo_Restore
+{:target="_blank"}
+[Protea]: https://warframe.fandom.com/wiki/Protea
+{:target="_blank"}
+[Dispensary]: https://warframe.fandom.com/wiki/Dispensary
+{:target="_blank"}
+[Nidus]: https://warframe.fandom.com/wiki/Nidus
+{:target="_blank"}
+[Parasitic Link]: https://warframe.fandom.com/wiki/Parasitic_Link
+{:target="_blank"}
+[Grendel]: https://warframe.fandom.com/wiki/Grendel
+{:target="_blank"}
+[Nourish]: https://warframe.fandom.com/wiki/Nourish
+{:target="_blank"}
+[Toxic Lash]: https://warframe.fandom.com/wiki/Toxic_Lash
+{:target="_blank"}
+[Gauss]:https://warframe.fandom.com/wiki/Gauss
+{:target="_blank"}
+[Thermal Sunder]: https://warframe.fandom.com/wiki/Thermal_Sunder
+{:target="_blank"}
+[Rhino]:https://warframe.fandom.com/wiki/Rhino
+{:target="_blank"}
+[Roar]:https://warframe.fandom.com/wiki/Roar
+{:target="_blank"}
+[Power Donation]:https://warframe.fandom.com/wiki/Power_Donation
+{:target="_blank"}
+[Enemy Radar]:https://warframe.fandom.com/wiki/Enemy_Radar
+{:target="_blank"}
