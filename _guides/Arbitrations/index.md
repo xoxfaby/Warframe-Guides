@@ -2,7 +2,7 @@
 title: Arbitration Guide
 description: Arbitration Guide created for and by the Warframe Arbitrations community.
 layout: default
-permalink: /Arbitrations/
+permalink: /Arbitrations
 ---
 
 *This guide is currently a simplified beginner-friendly guide for people trying to get into arbitrations
