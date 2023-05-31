@@ -3,6 +3,8 @@ title: Break Narmer/Kahl Guide
 layout: default
 ---
 
+# Break Narmer/Kahl Guide
+
 This short guide provides all necessary information to help with completion of all the challenges. 
 * Maps only rotate when you run them meaning they don’t change if you don’t do it. 
 * If you missed something you can freely abort the mission. Your challenge progress will be saved. e.g.: If you've skipped 1 genestamp and finished the mission you can restart the mission, grab last genestamp and abort the mission, resulting in you completing your challenge. 
