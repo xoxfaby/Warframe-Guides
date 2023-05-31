@@ -1,7 +1,7 @@
 ---
 title: Break Narmer/Kahl Guide
 layout: default
-permalink: /Break-Narmer
+permalink: /Break-Narmer/
 ---
 
 # Break Narmer/Kahl Guide
