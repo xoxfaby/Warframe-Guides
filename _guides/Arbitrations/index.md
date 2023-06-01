@@ -48,8 +48,13 @@ The [Smeeta Kavat](https://warframe.fandom.com/wiki/Smeeta_Kavat){:target="_blan
 ### Basic Build
 ![](media/builds_smeeta_basic.png)
 
-# Extra items + Specters
-Having [Energy Restore Pads] and [Ammo Restore Pads] can come in clutch sometimes as well so make sure you’re stocked up on plenty of those. You can get 100x restore blueprints from the different labs in the dojo. The specters used are Ancient Healer Specter, [Nidus] Specter and [Protea] Specter. The weapons on them don’t really matter as you’ll really just be using them for their abilities. [Protea] for [Dispensary] and [Nidus] for [Parasitic Link] just make sure to make them stationary where you’ll be camping. The quality of the specter also does not matter as a 1 star specter will functionally be the exact same as a 4 star specter so make sure to use whichever ones you have.
+# Gear
+Having [Energy Restore Pads] and [Ammo Restore Pads] can come in clutch sometimes as well so make sure you’re stocked up on plenty of those. You can get 100x restore blueprints from the different labs in the dojo. 
+## Specters
+The specters used are Ancient Healer Specter, [Nidus] Specter and [Protea] Specter. [Protea] for [Dispensary] and [Nidus] for [Parasitic Link] just make sure to make them stationary where you’ll be camping. The quality of the specter also does not matter as a 1 star specter will functionally be the exact same as a 4 star specter so make sure to use whichever ones you have.
+
+For weapons ensure you use [Battery Weapons] on them so that they don't take ammo away from you. Besides that weapon choice doesn't really matter as you’ll really just be using them for their abilities. 
+
 
 
 # Recommended Warframe Settings
@@ -146,4 +151,6 @@ Interception: <https://www.youtube.com/watch?v=dDERzXZsaec>
 [Power Donation]:https://warframe.fandom.com/wiki/Power_Donation
 {:target="_blank"}
 [Enemy Radar]:https://warframe.fandom.com/wiki/Enemy_Radar
+{:target="_blank"}
+[Battery Weapons]:https://warframe.fandom.com/wiki/Category:Battery_Weapons
 {:target="_blank"}
