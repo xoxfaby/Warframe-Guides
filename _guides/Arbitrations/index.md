@@ -104,6 +104,7 @@ Interception: <https://www.youtube.com/watch?v=dDERzXZsaec>
 [Afentis]: #afentis
 [Sporelacer]: #sporelacer
 [Smeeta Kavat]: #smeeta-kavat
+[Specters]: #specters
 [Arbitrations]: https://warframe.fandom.com/wiki/Arbitrations
 {:target="_blank"}
 [Arbitration Shield Drone]: https://warframe.fandom.com/wiki/Arbitration_Shield_Drone

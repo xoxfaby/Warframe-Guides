@@ -21,3 +21,9 @@ just_the_docs:
   collections:
     guides:
       name: Guides
+
+
+callouts:
+  important:
+    title: Important
+    color: yellow
