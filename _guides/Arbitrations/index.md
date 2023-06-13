@@ -19,7 +19,11 @@ permalink: /Arbitrations/
 
 # Frames
 
+Upgrade your normal mods to primed versions when you can.
+{: .reminder }
+
 These build recommended here will work perfectly fine for 80-100 waves in defense, anything above that might be a bit risky. They’re relatively lower-investment builds with 4 forma each so you don’t have to forma every frame 7-8 times. You can opt for umbral intensify for more power strength eventually when you can commit more formas to the builds. 
+
 
 More advanced builds will follow later.
 
@@ -36,7 +40,6 @@ More advanced builds will follow later.
 {% include_relative Weapons/Sporelancer.md %}
 
 ## General Weapon Advice 
-Don't forget to upgrade your normal mods to primed versions when you can.
 
 ### Secondary Advice 
 If you have [Amalgam Barrel Diffusion], make sure to pop it on whatever secondary you’re running as it gives a good parkour velocity boost when you’re rolling which really helps with looting fast.

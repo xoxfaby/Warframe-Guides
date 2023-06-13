@@ -27,3 +27,6 @@ callouts:
   important:
     title: Important
     color: yellow
+  reminder:
+    title: Reminder
+    color: purple
