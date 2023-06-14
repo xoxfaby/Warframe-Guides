@@ -56,6 +56,9 @@ Having [Energy Restore Pads] and [Ammo Restore Pads] can come in clutch sometime
 ## Specters
 The specters used are Ancient Healer Specter, [Nidus] Specter and [Protea] Specter. [Protea] for [Dispensary] and [Nidus] for [Parasitic Link] just make sure to make them stationary where you’ll be camping. The quality of the specter also does not matter as a 1 star specter will functionally be the exact same as a 4 star specter so make sure to use whichever ones you have.
 
+Mods do not apply to Specters
+{: .reminder }
+
 For weapons ensure you use [Battery Weapons] on them so that they don't take ammo away from you. Besides that weapon choice doesn't really matter as you’ll really just be using them for their abilities. 
 
 
