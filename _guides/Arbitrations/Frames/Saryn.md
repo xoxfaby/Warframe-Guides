@@ -3,7 +3,7 @@
 
 ### Strategy
 Throw down an ancient healer specter when your team will camp and press x on it to make it sit still
-Cast [Nourish] 
+Cast subsumed skill
 Double Dash with operator if you’re running Madurai or put hardened wellspring if Zenurik
 Get energy orb, 
 Cast 1st ability (hold it to buff yourself and teammates)
