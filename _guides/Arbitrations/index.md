@@ -161,3 +161,7 @@ Interception: <https://www.youtube.com/watch?v=dDERzXZsaec>
 {:target="_blank"}
 [Battery Weapons]:https://warframe.fandom.com/wiki/Category:Battery_Weapons
 {:target="_blank"}
+[Energized Munitions]:https://warframe.fandom.com/wiki/Category:Energized_Munitions
+{:target="_blank"}
+[Thermal Transfer]:https://warframe.fandom.com/wiki/Thermal_Transfer
+{:target="_blank"}
