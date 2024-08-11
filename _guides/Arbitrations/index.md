@@ -19,25 +19,25 @@ permalink: /Arbitrations/
 
 # Frames
 
-Upgrade your normal mods to primed versions when you can.
-{: .reminder }
+These build recommended here will work perfectly fine for 80-100 waves in defense, anything above that might be a bit risky.
 
-These build recommended here will work perfectly fine for 80-100 waves in defense, anything above that might be a bit risky. They’re relatively lower-investment builds with 4 forma each so you don’t have to forma every frame 7-8 times. You can opt for umbral intensify for more power strength eventually when you can commit more formas to the builds. 
-
-
-More advanced builds will follow later.
+If you are just getting into Meta Arbitrations it is recommended to start out with either Wisp or Chroma since they have the lowest skill requirement. 
+Saryn and Mirage should only be played by more experienced players since almost everything relies on them performing well.  
+{: .important }
 
 
 {% include_relative Frames/Saryn.md %}
 {% include_relative Frames/Mirage.md %}
-{% include_relative Frames/Volt.md %}
+{% include_relative Frames/Chroma.md %}
 {% include_relative Frames/Wisp.md %}
+{% include_relative Frames/Volt.md %}
 
 # Weapons
 
 {% include_relative Weapons/Ogris.md %}
 {% include_relative Weapons/Afentis.md %}
 {% include_relative Weapons/Sporelancer.md %}
+{% include_relative Weapons/Praedos.md %}
 
 ## General Weapon Advice 
 
@@ -51,10 +51,17 @@ The [Smeeta Kavat](https://warframe.fandom.com/wiki/Smeeta_Kavat){:target="_blan
 ### Basic Build
 ![](media/builds_smeeta_basic.png)
 
+### Advanced Build
+This build is more expensive but gives some additional utility
+![](media/builds_smeeta_advanced.png)
+
 # Gear
 Having [Energy Restore Pads] and [Ammo Restore Pads] can come in clutch sometimes as well so make sure you’re stocked up on plenty of those. You can get 100x restore blueprints from the different labs in the dojo. 
+
+The ability of the [Mantis] Landing Craft is also nice to have since it summons a Life Support Capsule on which you can stand on. So you can shoot from a more elevated Position.
+
 ## Specters
-The specters used are Ancient Healer Specter, [Nidus] Specter and [Protea] Specter. [Protea] for [Dispensary] and [Nidus] for [Parasitic Link] just make sure to make them stationary where you’ll be camping. The quality of the specter also does not matter as a 1 star specter will functionally be the exact same as a 4 star specter so make sure to use whichever ones you have.
+The specters used are Ancient Healer Specter and [Nidus] Specter for [Parasitic Link] just make sure to make them stationary where you’ll be camping. The quality of the specter also does not matter as a 1 star specter will functionally be the exact same as a 4 star specter so make sure to use whichever ones you have.
 
 Mods do not apply to Specters
 {: .reminder }
@@ -106,6 +113,7 @@ Interception: <https://www.youtube.com/watch?v=dDERzXZsaec>
 [Mirage]: #mirage
 [Volt]: #volt
 [Wisp]: #wisp
+[Chroma]: #chroma
 [Kuva Ogris]: #kuva-ogris
 [Afentis]: #afentis
 [Sporelacer]: #sporelacer
@@ -164,4 +172,16 @@ Interception: <https://www.youtube.com/watch?v=dDERzXZsaec>
 [Energized Munitions]:https://warframe.fandom.com/wiki/Category:Energized_Munitions
 {:target="_blank"}
 [Thermal Transfer]:https://warframe.fandom.com/wiki/Thermal_Transfer
+{:target="_blank"}
+[Arcane Power Ramp]:https://warframe.fandom.com/wiki/Arcane_Power_Ramp
+{:target="_blank"}
+[Molt Vigor]:https://warframe.fandom.com/wiki/Molt_Vigor
+{:target="_blank"}
+[Archon Intensify]:https://warframe.fandom.com/wiki/Archon_Intensify
+{:target="_blank"}
+[Pathogen Rounds]:https://warframe.fandom.com/wiki/Pathogen_Rounds
+{:target="_blank"}
+[Mantis]:https://warframe.fandom.com/wiki/Mantis
+{:target="_blank"}
+[Praedos]:https://warframe.fandom.com/wiki/Praedos
 {:target="_blank"}

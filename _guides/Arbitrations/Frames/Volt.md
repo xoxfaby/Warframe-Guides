@@ -1,6 +1,9 @@
 ## Volt
 *Cast shields, buff teammates.* 
 
+Volt is currently outdated and got replaced by Chroma. Some people still want to run it tho. 
+{: .important }
+
 ### Strategy
 Put down [Protea] Specter and press X on it to hold position
 
