@@ -16,5 +16,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           whitelist: 'xoxfaby' 
-          path-to-signatures: 'cla.json'
+          path-to-signatures: 'signatures.json'
           url-to-cladocument: 'https://github.com/xoxfaby/Warframe-Guides/blob/master/CLA.md'
