@@ -30,7 +30,7 @@ Saryn and Mirage should only be played by more experienced players since almost 
 {% include_relative Frames/Mirage.md %}
 {% include_relative Frames/Chroma.md %}
 {% include_relative Frames/Wisp.md %}
-{% include_relative Frames/Volt.md %}
+
 
 # Weapons
 
@@ -44,16 +44,16 @@ Saryn and Mirage should only be played by more experienced players since almost 
 ### Secondary Advice 
 If you have [Amalgam Barrel Diffusion], make sure to pop it on whatever secondary you’re running as it gives a good parkour velocity boost when you’re rolling which really helps with looting fast.
 # Companions
-## Smeeta Kavat
-The [Smeeta Kavat](https://warframe.fandom.com/wiki/Smeeta_Kavat){:target="_blank"} can potentially be very good and help boost Vitus essence anywhere from 10% to 50% in a good run, always run this if you have it. 
-[Charm], [Animal Instinct], [Tek Enhance] and [Fetch] are the mandatory mods, Tek assault is optional but can be very nice to have.
+You can run any beast companion with the [Resourceful Retriever] mod equiped, but bond mods can give additional utility.
 
-### Basic Build
-![](media/builds_smeeta_basic.png)
+## Sly Vulpaphyla
+Sadly Martyr Symbiosis doesn't work in Arbi's, but the Sly Vulpaphyla also has [Survival Instinct] which basically gives you a mini Wisp passive boosting your survivability while looting a bit.
 
-### Advanced Build
-This build is more expensive but gives some additional utility
-![](media/builds_smeeta_advanced.png)
+### Companion Build
+
+This build is optional, but it gives some nice additional buffs and helps a bit with survivability.
+![](media/builds_sly_basic.png)
+
 
 # Gear
 Having [Energy Restore Pads] and [Ammo Restore Pads] can come in clutch sometimes as well so make sure you’re stocked up on plenty of those. You can get 100x restore blueprints from the different labs in the dojo. 
@@ -66,7 +66,7 @@ The specters used are Ancient Healer Specter and [Nidus] Specter for [Parasitic 
 Mods do not apply to Specters
 {: .reminder }
 
-For weapons ensure you use [Battery Weapons] on them so that they don't take ammo away from you. Besides that weapon choice doesn't really matter as you’ll really just be using them for their abilities. 
+For weapons ensure you use [Battery Weapons] like the Shedu and Cycron on them so that they don't take ammo away from you. Besides that weapon choice doesn't really matter as you’ll really just be using them for their abilities. 
 
 
 
@@ -179,9 +179,13 @@ Interception: <https://www.youtube.com/watch?v=dDERzXZsaec>
 {:target="_blank"}
 [Archon Intensify]:https://warframe.fandom.com/wiki/Archon_Intensify
 {:target="_blank"}
-[Pathogen Rounds]:https://warframe.fandom.com/wiki/Pathogen_Rounds
+[Infected Clip]:https://warframe.fandom.com/wiki/Infected_Clip
 {:target="_blank"}
 [Mantis]:https://warframe.fandom.com/wiki/Mantis
 {:target="_blank"}
 [Praedos]:https://warframe.fandom.com/wiki/Praedos
+{:target="_blank"}
+[Resourceful Retriever]:https://warframe.fandom.com/wiki/Resourceful_Retriever
+{:target="_blank"}
+[Survival Instinct]:https://warframe.fandom.com/wiki/Survival_Instinct
 {:target="_blank"}
