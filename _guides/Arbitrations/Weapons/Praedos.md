@@ -8,7 +8,7 @@ Evolution IV: Evolved Ascension (Parkour Velocity)
 
 The other Evolutions are personal perferance.
 
-### Statstick build
+### Statstick Build
 
 This build is fully optional but adds some utily
 ![](media/builds_praedos.png)

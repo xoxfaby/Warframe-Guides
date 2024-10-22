@@ -17,8 +17,11 @@ Subsume on your 4th ability
 * Energized Munitions
 [Energized Munitions] helps with the constant ammo required to quickly spam your Ogris at the spawns.
 
-### Builds
-#### Basic Build
+
+### Basic Build
+![](media/builds_saryn_basic.png)
+
+### Min-Maxed Build
 ![](media/builds_saryn.png)
 
 ### Archon Shards

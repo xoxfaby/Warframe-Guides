@@ -9,12 +9,11 @@ Place your [Nidus Specter][Specters] and wait for it to tether you
 Stack up [Arcane Power Ramp] by using 2 and 3
 Use an operator ability to trigger [Molt Vigor]
 Get energy orb
-Put down a health mote
+Put down a haste mote
 Get energy orb
-Place another [Nidus Specter][Specters] and wait for it to tether you so you get the [Archon Intensify] bonus strength
 DD with operator for Madurai Sling strength
 Use an operator ability to trigger [Molt Vigor]
-Put down a haste mote
+Put down a health mote
 
 After Mote Setup repeat this:
 DD with operator for Madurai Sling strength
@@ -32,8 +31,12 @@ Subsume on your 4th ability
 * Roar
 [Roar] ([Rhino]) grants a massive damage buff to your entire team
 
-### Builds
-#### Basic Build
+
+### Basic Build
+This build will result in 180% haste motes if you do your setup correctly.
+![](media/builds_wisp_basic.png)
+
+### Min-Maxed Build
 ![](media/builds_wisp.png)
 
 ### Archon Shards
