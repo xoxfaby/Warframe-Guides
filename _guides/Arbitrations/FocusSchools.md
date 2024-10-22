@@ -7,4 +7,4 @@ Best tree to run if you have primed sure footed and aren’t worried about getti
 (Mandatory for [Wisp])
 
 ## Zenurik 
-If you’ve already invested into Zenurik for general gameplay and have Primed sure footed then “Wellspring” node will give your team energy regen which can be nice and “Hardened wellspring” node will give your entire team 20% power strength, very nice if you haven’t invested into madurai and have PSF already (One player should run this. It should be either [Saryn], [Mirage] or [Chroma] should run this)
+If you’ve already invested into Zenurik for general gameplay and have Primed sure footed then “Wellspring” node will give your team energy regen which can be nice and “Hardened wellspring” node will give your entire team 20% power strength, very nice if you haven’t invested into madurai and have PSF already (One player should run this. It should be either [Saryn] or [Mirage])
