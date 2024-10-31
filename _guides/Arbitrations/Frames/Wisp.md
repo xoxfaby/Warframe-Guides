@@ -33,7 +33,7 @@ Subsume on your 4th ability
 
 
 ### Basic Build
-This build will result in 180% haste motes if you do your setup correctly.
+This build will result in a 175% haste mote if you do your setup correctly.
 ![](media/builds_wisp_basic.png)
 
 ### Min-Maxed Build

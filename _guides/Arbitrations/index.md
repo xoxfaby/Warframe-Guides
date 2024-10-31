@@ -48,6 +48,7 @@ You can run any beast companion with the [Resourceful Retriever] mod equiped, bu
 
 ## Sly Vulpaphyla
 Sadly Martyr Symbiosis doesn't work in Arbi's, but the Sly Vulpaphyla also has [Survival Instinct] which basically gives you a mini Wisp passive boosting your survivability while looting a bit.
+Remember to equip bite on your beast companion if you want Tenacious Bond to work. 
 
 ### Companion Build
 
