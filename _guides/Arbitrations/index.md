@@ -102,13 +102,6 @@ Everyone will then LEAVE the relay and make a party again. You will then join a 
 
 The only map that you can’t double dip well is the frozen world corpus one as you can get a random selection between 3 maps when you load into that and only one of the maps is good. 
 
-# Example Videos
-
-Here are defense and interception example videos of the arbitration gameplay loop as mirage, it’s pretty much the same for all other roles as well
-
-Defense:  <https://www.youtube.com/watch?v=OB6srluQdXA>
-Interception: <https://www.youtube.com/watch?v=dDERzXZsaec>
-
 
 [Saryn]: #saryn
 [Mirage]: #mirage
