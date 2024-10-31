@@ -84,6 +84,9 @@ To save your eyes really
 # Nodes, Tiles and Mission Types
 
 For your convenience, the best tiles have been sorted into the S-Tier and A-Tier category and you can simply pick up the roles to get pinged for these in the server.
+The Tier of a node is simply decided by the possible vitus essence per hour (VE/h). 
+Survival, disruption and other "Open tile" missions have the issue of way too spread out uncontrollable spawns resulting in drones getting stuck in random locations, resulting in 1 less possible drone for the rest of the mission and way lower KPM (kills per minute). 
+People usually only play S and A Tier arbitrations, some still play B tier missions but i wouldn't expect to find lobbies for anything below S/A-Tier.
 
 ## Mission types 
 Interception and Defense are the best mission types to farm Vitus essence. Defense is simple enough (camp one point and shoot at spawns) and there is an example video at the bottom of this guide.
