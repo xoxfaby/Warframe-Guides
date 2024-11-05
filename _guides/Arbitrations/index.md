@@ -48,6 +48,7 @@ You can run any beast companion with the [Resourceful Retriever] mod equiped, bu
 
 ## Sly Vulpaphyla
 Sadly Martyr Symbiosis doesn't work in Arbi's, but the Sly Vulpaphyla also has [Survival Instinct] which basically gives you a mini Wisp passive boosting your survivability while looting a bit.
+Remember to equip bite on your beast companion if you want Tenacious Bond to work. 
 
 ### Companion Build
 
@@ -83,6 +84,9 @@ To save your eyes really
 # Nodes, Tiles and Mission Types
 
 For your convenience, the best tiles have been sorted into the S-Tier and A-Tier category and you can simply pick up the roles to get pinged for these in the server.
+The Tier of a node is simply decided by the possible vitus essence per hour (VE/h). 
+Survival, disruption and other "Open tile" missions have the issue of way too spread out uncontrollable spawns resulting in drones getting stuck in random locations, resulting in 1 less possible drone for the rest of the mission and way lower KPM (kills per minute). 
+People usually only play S and A Tier arbitrations, some still play B tier missions but i wouldn't expect to find lobbies for anything below S/A-Tier.
 
 ## Mission types 
 Interception and Defense are the best mission types to farm Vitus essence. Defense is simple enough (camp one point and shoot at spawns) and there is an example video at the bottom of this guide.
@@ -100,13 +104,6 @@ To achieve this players need to party up and all join a relay together. Once in 
 Everyone will then LEAVE the relay and make a party again. You will then join a relay again and start the arbitration from the navigation area of the relay. Make sure to leave 5-10 minutes before the arbitration ends. Once you’re back in the relay you’ll be able to select the arbitration mission again and do a full long run of it and it’s that simple to double dip. Make sure you don’t leave the relay or join a different relay after finishing your first arbitration run as you’ll lose the ability to play the mission again.
 
 The only map that you can’t double dip well is the frozen world corpus one as you can get a random selection between 3 maps when you load into that and only one of the maps is good. 
-
-# Example Videos
-
-Here are defense and interception example videos of the arbitration gameplay loop as mirage, it’s pretty much the same for all other roles as well
-
-Defense:  <https://www.youtube.com/watch?v=OB6srluQdXA>
-Interception: <https://www.youtube.com/watch?v=dDERzXZsaec>
 
 
 [Saryn]: #saryn
