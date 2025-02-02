@@ -2,18 +2,24 @@
 ## Wisp
 *Support Frame, buffs team*
 
+{: .reminder }
+Specters are not optional
+
 ### Strategy
 Mote setup:
 DD with operator for Madurai Sling strength
 Place your [Nidus Specter][Specters] and wait for it to tether you 
-Stack up [Arcane Power Ramp] by using 2 and 3
 Use an operator ability to trigger [Molt Vigor]
 Get energy orb
-Put down a haste mote
+Put down a health mote
 Get energy orb
 DD with operator for Madurai Sling strength
 Use an operator ability to trigger [Molt Vigor]
-Put down a health mote
+Put down another health mote for Arcane Bellicose
+Get energy orb
+DD with operator for Madurai Sling strength
+Use an operator ability to trigger [Molt Vigor]
+Put down another haste mote
 
 After Mote Setup repeat this:
 DD with operator for Madurai Sling strength
@@ -34,6 +40,7 @@ Subsume on your 4th ability
 
 ### Basic Build
 This build will result in a 175% haste mote if you do your setup correctly.
+Run Arcane Bellicose instead of Arcane Power Ramp in the screenshot
 ![](media/builds_wisp_basic.png)
 
 ### Min-Maxed Build

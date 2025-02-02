@@ -1,10 +1,12 @@
 ## Mirage
 *Strong buff frame with 3 copies that use your Ogris.*
 
+{: .reminder }
+Specters are not optional
+
 ### Strategy
 Throw down a [Nidus] specter and wait for him to tether to you
 Put down hardened wellspring from Zenurik
-Get energy orb
 Cast 3rd ability
 Cast 1st ability
 Cast 4th ability
@@ -17,6 +19,8 @@ Subsume on your 4th ability
 
 
 ### Basic Build
+
+Run Arcane Bellicose instead of Molt Augmented in the screenshot
 ![](media/builds_mirage_basic.png)
 
 ### Min-Maxed Build

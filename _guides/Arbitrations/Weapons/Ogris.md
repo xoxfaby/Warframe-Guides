@@ -1,5 +1,6 @@
 ## Kuva Ogris
-For Arbitrations we currently use a Toxin Progenitor to create corrosive damage on Mirage with a single purple shard. 
+For Arbitrations we currently use a Toxin Progenitor to create corrosive damage on Mirage with a single purple shard.
+Saryn can use a Cold Progenitor to get viral with the modded toxin but that is not needed at all, since Saryn has more than enought damage already.
 A Riven is not required at all and if you have a Riven replace Vigilante Armaments. 
 Make sure to equip the bane mod since it’s a must have. Non-primed bane is fine too. 
 [Nightwatch Napalm] leaves lingering AOE damage zones, these will kill enemies on spawn as long as you’re firing at the spawn points which makes this the best weapon for Arbitrations.
