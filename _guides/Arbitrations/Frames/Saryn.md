@@ -1,13 +1,12 @@
 ## Saryn
 *Primary DPS, huge buff for teammates and herself.*
 
+{: .reminder }
+Specters are not optional
+
 ### Strategy
-Throw down an ancient healer specter and [Nidus Specter][Specters] when your team will camp and press x on it to make it sit still
+Throw down an [Nidus Specter][Specters] where your team will camp and press x on it to make it sit still
 Wait for Nidus Link
-Double Dash with operator if you’re running Madurai
-Get energy orb, 
-Cast 1st ability (hold it to buff yourself and teammates)
-Get energy orb, 
 Cast [Toxic Lash]
 Cast [Energized Munitions]
 Kill stuff
@@ -19,6 +18,8 @@ Subsume on your 4th ability
 
 
 ### Basic Build
+
+Run Arcane Bellicose instead of Molt Augmented in the screenshot
 ![](media/builds_saryn_basic.png)
 
 ### Min-Maxed Build
@@ -27,8 +28,7 @@ Subsume on your 4th ability
 ### Archon Shards
 
 3x Toxin Damage 
-1x Cast Speed (less downtime due to casttime)
-1x Parkour Velocity (Faster looting)
+2x Parkour Velocity (Faster looting)
 
 ![](media/shards_saryn.png)
 
