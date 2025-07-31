@@ -22,6 +22,18 @@ just_the_docs:
     guides:
       name: Guides
 
+toc:
+  max_level: 2 # default: 6
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
+
+plugins:
+  - jekyll-toc
+
 
 callouts:
   important:
