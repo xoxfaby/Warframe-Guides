@@ -30,6 +30,7 @@ Saryn and Mirage should only be played by more experienced players since almost 
 {% include_relative Frames/Mirage.md %}
 {% include_relative Frames/Chroma.md %}
 {% include_relative Frames/Wisp.md %}
+{% include_relative Frames/Volt.md %}
 
 
 # Weapons
