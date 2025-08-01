@@ -33,8 +33,8 @@ Volt Prime is required
 
 ### Min-Maxed Build
 
-![](media/builds_volt_basic.png)
+![](media/builds_volt_advanced.png)
 
 ### Archon Shards
-![](media/builds_volt_basic.png)
+![](media/shards_volt.png)
 5x  Strength
