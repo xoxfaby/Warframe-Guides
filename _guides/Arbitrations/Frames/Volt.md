@@ -1,5 +1,5 @@
 ## Volt
-*Support Frame. Buffs team with speed, reload speed and damage. Can use Ogris or Afentis with Afentis being more common experienced teams.* 
+*Support Frame. Buffs team with speed, reload speed and damage. Can use Ogris or Afentis with Afentis being more common in experienced teams.* 
 
 Often utilized in more experienced groups over Chroma as Volt's reload speed buff and dispensary are stronger at the cost of damage. Volt is also considerably harder to keep max strength dispensary up all the time due to lower duration. Volt's reload speed buff is also less consistent to apply compared to Chroma's.
 
